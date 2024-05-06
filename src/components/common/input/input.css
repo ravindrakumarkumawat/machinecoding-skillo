@@ -1,0 +1,7 @@
+input {
+  border: 1px solid var(--border-color);
+  height: 50px;
+  width: 100%;
+
+  border-radius: var(--border-radius);
+}
