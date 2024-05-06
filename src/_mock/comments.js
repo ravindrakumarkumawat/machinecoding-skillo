@@ -23,7 +23,7 @@ const comments = [
       user_id: 3,
       user_name: 'Jhon doe',
       comment_time: '2024-12-04',
-      nesting_levels_id: "2.35.3.",
+      nesting_levels_id: "2.35.3",
         }
       ],
       user_id: 3,
